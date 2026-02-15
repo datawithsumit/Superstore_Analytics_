@@ -119,7 +119,7 @@ Analyze retail sales data to identify:
 ```
 Superstore-Sales-Analytics-Dashboard/
 ├── README.md (this file)
-├── Superstore_Analytics_[YourName]_FINAL.xlsx (main dashboard)
+├── Superstore_Analytics_Sumit.xlsx (main dashboard)
 ├── Dashboard_Overview.png (screenshot - top section)
 └── Dashboard_Full.png (screenshot - complete view)
 ```
@@ -128,7 +128,7 @@ Superstore-Sales-Analytics-Dashboard/
 
 ## 🚀 How to Use
 
-1. **Download** `Superstore_Analytics_[YourName]_FINAL.xlsx`
+1. **Download** `Superstore_Analytics_Sumit.xlsx`
 2. **Open in Excel** (Microsoft Office 2016 or later recommended)
 3. **Navigate to "Dashboard" tab** to see interactive analysis
 4. **Use the 5 slicers** at the top to filter data:
