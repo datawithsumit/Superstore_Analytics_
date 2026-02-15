@@ -1,5 +1,6 @@
 # Superstore_Analytics_
 **File:** `Superstore_Analytics_Sumit.xlsx`
+
 **Objective:** Analyze 9,994 sales transactions to identify revenue optimization opportunities
 
 **Key Features:**
